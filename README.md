@@ -15,6 +15,7 @@ I am a full stack web developer and a problem solver. On my way of learning web 
 ### Projects
 * [Kalax](https://kalax.netlify.app/)
 * [MCQ Based Test System](https://ecell-hbtu.web.app/)
+* [News Letter Sign Up](https://afternoon-plains-21627.herokuapp.com/)
 
 
 
