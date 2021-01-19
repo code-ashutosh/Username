@@ -14,10 +14,10 @@
 <p align="center">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="mailto:in.ashutoshtrivedi@gmail.com" target="blank"><img align="center" src ="https://img.icons8.com/nolan/64/email.png" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/anshu_" target="blank"><img align="center" src="./codeforces-logo.png" alt="AshutoshTrivedi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashutosh-trivedi-b96592192" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="AshutoshTrivedi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anshu_" target="blank"><img align="center" src="./codechef-logo.jpg" alt="anshu_" height="30" width="40" /></a>
+<a href="mailto:in.ashutoshtrivedi@gmail.com" target="blank"><img align="center" src ="https://img.icons8.com/nolan/64/email.png" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/anshu_" target="blank"><img align="center" src="./codeforces-logo.png" alt="AshutoshTrivedi" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/ashutosh-trivedi-b96592192" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="AshutoshTrivedi" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/anshu_" target="blank"><img align="center" src="./codechef-logo.jpg" alt="anshu_" height="40" width="40" /></a>
 <a href="https://leetcode.com/AshutoshTrivedi/" target="blank"><img align="center" src="./leetcode-log.png" alt="AshutoshTrivedi" height="30" width="40" /></a>
 </p>
 </p>
