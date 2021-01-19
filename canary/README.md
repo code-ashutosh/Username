@@ -1,19 +1,27 @@
-<h1 align="center">Hello there and Namaste :pray , I'm Ashutosh Trivedi</h1>
+<h1 align="center">Hello there and Namaste 🙏 , I'm Ashutosh Trivedi</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=code-ashutosh" alt="AshutoshTrivedi" /> </p>
 <p align ="center">
  - 🌱 I’m currently learning <b>How JAM Stack can speed up your Web apps ? </b></p>
- - 😄 Pronouns: he/him
+ <p align ="center">- 😄 Pronouns: he/him</p>
 <!--
 - 👨‍💻 All of my projects are available at   -->
 
-<p align ="center">- 💬 Ask me about <b>Full Stack Development using NodeJS</b></p>
-
+<p align ="center">- 💬 Ask me about <b>Full Stack Development using ReactJS & NodeJS</b></p>
 <p align ="center">- ⚡ Fun fact <b>Algorithms and Data Structures have more use in dev than it seems</b>
+</p>
+<h3 align="center"> Projects</h3>
+<p align = "center">
+* [Kalax](https://kalax.netlify.app/)
+* [MCQ Based Test System](https://ecell-hbtu.web.app/)
+* [News Letter Sign Up](https://afternoon-plains-21627.herokuapp.com/)
+* [Keep Your](https://keep-your-notes.netlify.app/)
+
 </p>
 <p align="center">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+<a href="mailto:in.ashutoshtrivedi@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/email.png" alt="AshutoshTrivedi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/anshu_" target="blank"><img align="center" src="./codeforces-logo.png" alt="AshutoshTrivedi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashutosh-trivedi-b96592192" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="AshutoshTrivedi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anshu_" target="blank"><img align="center" src="./codechef-logo.jpg" alt="anshu_" height="30" width="40" /></a>
@@ -23,7 +31,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="./linux-tux.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://getbootstrap.com" target="_blank"> <img src="./bootstrap-4.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/> </a> 
 <a href="https://nodejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
