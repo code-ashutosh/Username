@@ -24,7 +24,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-<a href="https://www.linux.org" target="_blank"> <img src="./linux0tux.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.linux.org" target="_blank"> <img src="./linux-tux.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://getbootstrap.com" target="_blank"> <img src="./bootstrap-4.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/> </a> 
 <a href="https://nodejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
