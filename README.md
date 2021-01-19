@@ -18,13 +18,13 @@
 <a href="https://codeforces.com/profile/anshu_" target="blank"><img align="center" src="./codeforces-logo.png" alt="AshutoshTrivedi" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/ashutosh-trivedi-b96592192" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="AshutoshTrivedi" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/anshu_" target="blank"><img align="center" src="./codechef-logo.jpg" alt="anshu_" height="40" width="40" /></a>
-<a href="https://leetcode.com/AshutoshTrivedi/" target="blank"><img align="center" src="./leetcode-log.png" alt="AshutoshTrivedi" height="30" width="40" /></a>
+<a href="https://leetcode.com/AshutoshTrivedi/" target="blank"><img align="center" src="./leetcode-log.png" alt="AshutoshTrivedi" height="40" width="40" /></a>
 </p>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-<a href="https://www.linux.org" target="_blank"> <img src="./Linux.png" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.linux.org" target="_blank"> <img src="./Linux.png" alt="linux" width="45" height="40"/> </a>
  <a href="https://getbootstrap.com" target="_blank"> <img src="./bootstrap-4.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/> </a> 
 <a href="https://nodejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
